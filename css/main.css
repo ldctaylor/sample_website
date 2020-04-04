@@ -6,3 +6,37 @@
 .nav-menu {
     text-align: right;
 }
+
+.report-header {
+    text-align: center;
+    margin: 0 0 8px;
+}
+
+.centered-image {
+    display: block; 
+    margin: 0 auto;
+}
+
+.report-body {
+    width: 500px; 
+    margin: 20px auto; 
+    padding: 30px; 
+    background-color: #fafafa;
+}
+
+.book-image {
+    float: left; 
+    margin: 0 40px 0 0;
+}
+
+.quote-styling {
+    font-style: italic; 
+    font-size: 20px;
+}
+
+.emphasis-sentence {
+    font-style: normal; 
+    font-size: 24px; 
+    font-weight: bold;
+    color: #ff0000
+}
